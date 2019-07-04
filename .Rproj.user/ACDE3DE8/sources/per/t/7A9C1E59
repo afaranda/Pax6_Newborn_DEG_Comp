@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562179257456.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "712952043",
+    "id" : "7A9C1E59",
+    "lastKnownWriteTime" : 1562202797,
+    "last_content_update" : 1562202797898,
+    "path" : "~/Documents/Pax6_Newborn_DEG_Comp/Process_GSE13244.R",
+    "project_path" : "Process_GSE13244.R",
+    "properties" : {
+        "cursorPosition" : "66,9",
+        "scrollLine" : "43"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
